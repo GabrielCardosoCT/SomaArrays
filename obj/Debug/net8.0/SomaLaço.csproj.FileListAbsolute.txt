@@ -1,0 +1,14 @@
+C:\Users\gabri\My project\SomaLaço\bin\Debug\net8.0\SomaLaço.exe
+C:\Users\gabri\My project\SomaLaço\bin\Debug\net8.0\SomaLaço.deps.json
+C:\Users\gabri\My project\SomaLaço\bin\Debug\net8.0\SomaLaço.runtimeconfig.json
+C:\Users\gabri\My project\SomaLaço\bin\Debug\net8.0\SomaLaço.dll
+C:\Users\gabri\My project\SomaLaço\bin\Debug\net8.0\SomaLaço.pdb
+C:\Users\gabri\My project\SomaLaço\obj\Debug\net8.0\SomaLaço.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\My project\SomaLaço\obj\Debug\net8.0\SomaLaço.AssemblyInfoInputs.cache
+C:\Users\gabri\My project\SomaLaço\obj\Debug\net8.0\SomaLaço.AssemblyInfo.cs
+C:\Users\gabri\My project\SomaLaço\obj\Debug\net8.0\SomaLaço.csproj.CoreCompileInputs.cache
+C:\Users\gabri\My project\SomaLaço\obj\Debug\net8.0\SomaLaço.dll
+C:\Users\gabri\My project\SomaLaço\obj\Debug\net8.0\refint\SomaLaço.dll
+C:\Users\gabri\My project\SomaLaço\obj\Debug\net8.0\SomaLaço.pdb
+C:\Users\gabri\My project\SomaLaço\obj\Debug\net8.0\SomaLaço.genruntimeconfig.cache
+C:\Users\gabri\My project\SomaLaço\obj\Debug\net8.0\ref\SomaLaço.dll
